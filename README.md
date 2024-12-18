@@ -1,5 +1,12 @@
-# Data-Analytics-Project
+# Data-Analytics-2024-Project (Stock Market Analysis Using Hierarchical Clustering)
+Submitted By: Anishka Vaitla, Ramesh Kumar, Tarun Kumar Sahu, Varivashya Poladi, Yogangi Tiwari
+
+
+Aim: To compare stock market network dynamics and resilience between the 2008 Financial Crisis and 2020 COVID-19 Crisis using network analysis.
+
 Code Summary by Cell
+
+
 Cell 1: Library Imports
 
 Imports essential libraries for data analysis, visualisation, and network analysis
@@ -14,7 +21,7 @@ Implements error handling and rate limiting
 
 Cell 3: Data Organization
 
-Arrange downloaded data by date
+Arrange downloaded data by date.
 Organises files into NASDAQ and NYSE directories
 Processes and validates data
 Creates standardized CSV format
@@ -24,7 +31,7 @@ Cell 4: Data Processing
 Reads and combines data from multiple CSV files
 Processes S&P 500 company list
 Randomly samples 500 companies
-Combines data from both time periods
+Combines data from both periods
 
 Cell 5: Price Processing
 
